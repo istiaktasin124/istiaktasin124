@@ -1,4 +1,4 @@
-# ⚡️ T3X // ROOT_ACCESS_GRANTED
+# ⚡️ Istiak Mahmud Tasin
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=istiaktasin124&color=7ed321&style=flat-square&label=VISITOR+SYSTEMS" alt="Visitors" />
@@ -34,8 +34,8 @@
 
 ### 🧩 SYSTEM LOGS (About Me)
 - 🚀 **Volunteer History:** ICPC 2024 (Operations Support).
-- 🛵 **Mobility:** Powered by TailG Rabbit F52.
-- 🎧 **Audio Interface:** High-fidelity enthusiast (Marshall/Sony).
+- 🛵 **Mobility:** TailG Rabbit F52.
+- 🎧 **Audio Interface:** High-fidelity enthusiast Marshall.
 - 🏠 **Local Presence:** Operating from Tomsombridge, Cumilla.
 
 ---
