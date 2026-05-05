@@ -1,28 +1,45 @@
-# ⚡ Welcome to the system of T3X
+# ⚡️ T3X // ROOT_ACCESS_GRANTED
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge&logo=statuspage" />
-  <img src="https://img.shields.io/badge/Role-Web%20Developer%20|%20Cybersecurity-blue?style=for-the-badge" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=istiaktasin124&color=7ed321&style=flat-square&label=VISITOR+SYSTEMS" alt="Visitors" />
+  <img src="https://img.shields.io/badge/Current_City-Cumilla-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-blue?style=flat-square" />
+</div>
 
 ---
 
-### 🟢 System Diagnostics
-- **Current Mission:** Building a Hall Seat Management System & NFC profile portal.
-- **Core Skills:** PHP, MySQL, HTML, and CSS.
-- **Neural Interests:** Data Analysis and Cybersecurity.
-- **Active Roles:** Vice President at Rotaract Club of Mainamati & City Coordinator for English Olympiad.
+### 🌐 THE CORE (Who am I?)
+- **Identity:** Istiak Mahmud Tasin
+- **Alias:** T3X (The Digital Persona)
+- **Base:** CSE Student @ BAIUST
+- **Specialization:** Web Development (PHP/MySQL) & Data Analysis
 
-### 🛠️ Tech Stack
-| Backend | Frontend | Tools |
+---
+
+### 🏛️ COMMAND CENTER (Leadership Roles)
+| Entity | Designation | Task Status |
 | :--- | :--- | :--- |
-| PHP, MySQL | HTML, CSS | MacOS, RK61 Mechanical Keyboard |
-
-### 📊 System Stats
-![T3X's GitHub stats](https://github-readme-stats.vercel.app/api?username=istiaktasin124&show_icons=true&theme=tokyonight)
+| **BAIUST Sports Club** | **Media & Publication Secretary** | 🟢 ACTIVE |
+| **Rotaract Club of Mainamati** | Vice President | 🟢 ACTIVE |
+| **English Olympiad** | City Coordinator | 🟢 ACTIVE |
 
 ---
 
-### 📞 Establish Connection
-- 📧 Reach me via my university channels at BAIUST.
-- ⚡ **Fun Fact:** I navigate the real world on a TailG Rabbit F52.
+### 🛠️ ACTIVE DEPLOYMENTS
+- 🖥️ **Hall Seat Management System:** Streamlining university residence logistics.
+- 🎫 **NFC Profile Portal:** Next-gen digital identification system.
+- 🗳️ **Voting System:** Secure digital democratic interface.
+
+---
+
+### 🧩 SYSTEM LOGS (About Me)
+- 🚀 **Volunteer History:** ICPC 2024 (Operations Support).
+- 🛵 **Mobility:** Powered by TailG Rabbit F52.
+- 🎧 **Audio Interface:** High-fidelity enthusiast (Marshall/Sony).
+- 🏠 **Local Presence:** Operating from Tomsombridge, Cumilla.
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=istiaktasin124&layout=compact&theme=vision-friendly-dark" />
+</div>
